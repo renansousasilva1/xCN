@@ -28,7 +28,9 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
-    'testserver',  # Adicione isso para permitir o Client do Django
+    'testserver',  # Adicionei isso para permitir o Client do Django
+    'cxfpad.conteige.cloud',
+    'xnine.shop',
 ]
 
 
